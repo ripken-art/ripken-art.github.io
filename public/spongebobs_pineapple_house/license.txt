@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spongebob's Pineapple House
+* source:	https://sketchfab.com/3d-models/spongebobs-pineapple-house-54caa18b2c9b4cb0a65eee107f8169d3
+* author:	Designed By Jonathan (https://sketchfab.com/designedbyjonathan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spongebob's Pineapple House" (https://sketchfab.com/3d-models/spongebobs-pineapple-house-54caa18b2c9b4cb0a65eee107f8169d3) by Designed By Jonathan (https://sketchfab.com/designedbyjonathan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
