@@ -1,6 +1,5 @@
 {
-  "homepage": "https://ripken-art.github.io/fiber",
-  "name": "fiber",
+  "name": "ripken-art.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
